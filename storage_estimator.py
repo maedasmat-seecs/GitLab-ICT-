@@ -1,5 +1,6 @@
 # storage_estimator.py
 # Estimates how much cloud storage is needed
+//A NEW CHANGE
 
 def estimate_storage(num_files, avg_size_mb):
     total_mb = num_files * avg_size_mb
