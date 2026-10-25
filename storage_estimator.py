@@ -14,3 +14,5 @@ def main():
     print("Total storage needed:", total, "MB")
 
 main()
+print("Total storage needed:", total, "MB")
+print("Total in GB:", round(total / 1024, 2), "GB")
