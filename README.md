@@ -1,4 +1,4 @@
-# Storage Estimator //CHANGE NEW
+# Storage Estimator - Main Version
 
 ## Purpose
 Calculates the total cloud storage needed from the number of files and their average size.
